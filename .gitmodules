@@ -1,4 +1,0 @@
-[submodule "public"]
-	path = public
-	url = git@github.com:sparts-project/sparts-project.github.io.git
-	branch = master
